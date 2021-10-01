@@ -1,5 +1,5 @@
 # C-programmering i Linux, macOS, BSD och Solaris (tredje utgåvan)
-Här finns du all exempelkod för tredje utgåvan av boken *C-programmering i
+Här finner du all exempelkod för tredje utgåvan av boken *C-programmering i
 Linux, macOS, BSD och Solaris* (ISBN: 978-91-983300-7-6).
 
 Boken går att köpa från [CyberInfo Sverige](https://www.cyberinfo.se/bocker/),
