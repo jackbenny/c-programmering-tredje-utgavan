@@ -1,0 +1,1 @@
+längd: 33, bredd: 20, höjd: 10

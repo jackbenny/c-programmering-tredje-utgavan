@@ -1,0 +1,1 @@
+int kvadrat(int n);

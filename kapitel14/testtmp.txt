@@ -1,0 +1,10 @@
+id=151  temperature=-4.6    humidity=92 time=2016-11-13 22:50:20
+id=167  temperature=22.1    humidity=20 time=2016-11-13 22:49:34
+id=151  temperature=-4.6    humidity=92 time=2016-11-13 22:53:32
+id=167  temperature=22.0    humidity=20 time=2016-11-13 22:53:34
+id=151  temperature=-4.6    humidity=92 time=2016-11-13 22:56:44
+id=167  temperature=22.3    humidity=20 time=2016-11-13 22:56:45
+id=151  temperature=-4.7    humidity=92 time=2016-11-13 22:59:56
+id=167  temperature=22.4    humidity=20 time=2016-11-13 22:59:57
+id=151  temperature=-4.7    humidity=92 time=2016-11-13 23:02:20
+id=167  temperature=22.4    humidity=20 time=2016-11-13 23:02:21
