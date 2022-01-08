@@ -3,9 +3,9 @@ Här finner du all exempelkod för tredje utgåvan av boken *C-programmering i
 Linux, macOS, BSD och Solaris* (ISBN: 978-91-983300-7-6).
 
 Boken går att köpa från [CyberInfo Sverige](https://www.cyberinfo.se/bocker/),
-[Bokus](https://www.bokus.com/cgi-bin/product_search.cgi?publisher=CyberInfo%20Sverige)
+[Bokus](https://www.bokus.com/bok/9789198330076/c-programmering-i-linux-macos-bsd-och-solaris/)
 och
-[Adlibris](https://www.adlibris.com/se/sok?filter=publisher%3ACyberInfo%20Sverige)
+[Adlibris](https://www.adlibris.com/se/bok/c-programmering-i-linux-macos-bsd-och-solaris-9789198330076)
 från och med hösten/vintern 2021.
 
 Är du nyfiken på boken så titta gärna i [innehållsförteckningen](https://www.cyberinfo.se/dokument/c-prog_innehallsforteckning_3e_utg.html).
