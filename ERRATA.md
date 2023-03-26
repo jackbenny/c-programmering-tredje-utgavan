@@ -13,4 +13,4 @@ minnesläcka. Raden med `return 0;` ska således bytas ut mot:
 Tack till [Warren Crutcher](https://github.com/warrenlc) som upptäckte detta
 och skickade in en [rättning](https://github.com/jackbenny/c-programmering-tredje-utgavan/pull/1).
 
-Koden är rättad på Github, och den korrekta finns således i [/kapitel11/simple-ls-ver2.c](simple-ls-ver2.c).
+Koden är rättad på Github och finns i [/kapitel11/simple-ls-ver2.c](/kapitel11/simple-ls-ver2.c).
