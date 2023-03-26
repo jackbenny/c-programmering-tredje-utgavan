@@ -62,7 +62,9 @@ int main(int argc, char **argv)
                 printf("%s\n", dir->d_name);
         }
     }
-        return 0;
+    
+    closedir(d);
+    return 0;
 }
 
 void printUsage(char *arg)
