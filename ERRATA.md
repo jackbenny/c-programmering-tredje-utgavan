@@ -6,7 +6,7 @@ returnerar. Testar man programmet med Valgrind kommer det att rapportera en
 minnesläcka. Raden med `return 0;` ska således bytas ut mot:
 
 ```
-    closedir(d)
+    closedir(d);
     return 0;
 ```
 
